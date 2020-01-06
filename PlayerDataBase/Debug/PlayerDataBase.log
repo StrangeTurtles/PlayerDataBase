@@ -1,0 +1,3 @@
+﻿  Player.cpp
+c:\users\s199030\source\repos\playerdatabase\playerdatabase\player.cpp(23): warning C4018: '<': signed/unsigned mismatch
+  PlayerDataBase.vcxproj -> C:\Users\s199030\source\repos\PlayerDataBase\Debug\PlayerDataBase.exe
